@@ -1,0 +1,11 @@
+# --- 项目内部数据（不提交） ---
+.workbuddy/
+
+# --- Qilan 抓取脚本：密钥与生成物（不提交） ---
+qilan-scraper/session.txt
+qilan-scraper/cookies.json
+qilan-scraper/nodes_all.json
+qilan-scraper/nodes_all.csv
+qilan-scraper/__pycache__/
+__pycache__/
+*.pyc
